@@ -11,7 +11,7 @@ The purpose of this project is to compare the metrics of 3 different neural netw
 
 The dataset was sourced from kaggle and consisted of greyscale 480x640 JPG images of  labeled MRI scans from breast cancer patients that are healthy and sick.  After the 
 
-DataSource Link:  https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-data
+Source:  https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-data
 
 ## 
 
