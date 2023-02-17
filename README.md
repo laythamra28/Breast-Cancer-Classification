@@ -17,7 +17,9 @@ Source:  https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-data
 
 1. Download the Raw Data and upload it to your google drive
 2. Run Alex+Resnet+Preprocessing.ipynb from the start. The first part of this notebook performs the preprocessing steps needed.
-3.
+3. After you preproccess raw data and split the data into training and testing data you can run any of the other notebooks attaining to the other networks.
+
+## Results
 
 
 
