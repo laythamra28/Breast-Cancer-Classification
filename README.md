@@ -20,5 +20,8 @@ Source:  https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-data
 3. After you preproccess raw data and split the data into training and testing data you can run any of the other notebooks attaining to the other networks.
 
 ## Results
+
+Learning Curve of all networks(this also includes ResNet:
+
 ![alt text](https://github.com/laythamra28/Breast-Cancer-Classification/blob/main/Results/Learning-curves-All.png)
 
