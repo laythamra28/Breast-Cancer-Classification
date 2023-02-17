@@ -25,3 +25,8 @@ Learning Curve of all networks(this also includes ResNet:
 
 ![alt text](https://github.com/laythamra28/Breast-Cancer-Classification/blob/main/Results/Learning-curves-All.png)
 
+HyperParameter Tuning of LeNet 5:
+
+![alt text]()
+
+
