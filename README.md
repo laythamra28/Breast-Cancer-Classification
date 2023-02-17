@@ -13,5 +13,11 @@ The dataset was sourced from kaggle and consisted of greyscale 480x640 JPG image
 
 Source:  https://www.kaggle.com/datasets/uzairkhan45/breast-cancer-patients-data
 
-## Installation
+## Usage
+
+1. Download the Raw Data and upload it to your google drive
+2. Run Alex+Resnet+Preprocessing.ipynb from the start. The first part of this notebook performs the preprocessing steps needed.
+3.
+
+
 
